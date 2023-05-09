@@ -8,8 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://twitter.com/longtran1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="longtran1234" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/long-tran-205222179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="long-tran-205222179" height="30" width="40" /></a>
+  <a href="https://www.twitter.com/longtran1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://linkedin.com/in/long-tran-205222179/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
+  <a href="https://discord.Long Tran#0478" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+
   </p>
  
 
