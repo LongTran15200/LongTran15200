@@ -1,4 +1,4 @@
-![github-header-image (3)](https://github.com/LongTran15200/LongTran15200/assets/128632373/0b74cf62-44f9-4c1a-9bbe-936ec945234c)
+![github-header-image (4)](https://github.com/LongTran15200/LongTran15200/assets/128632373/7ffa082c-3870-447f-b30f-b07af2d2cf06)
 # Hello World!, Welcome to my Github! :wave:
 <div>
   <p> :man_technologist:	 My name is Long Tran, aspiring Software Engineer/Cybersecurity Specialist.
