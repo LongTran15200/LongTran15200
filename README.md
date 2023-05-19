@@ -11,7 +11,7 @@
 <h3>:page_facing_up: Certifications:</h3>
 
   - [Google IT Support Professional](https://coursera.org/share/a66940902e215a23c9e28167e029f9bd)
-  - [HTTP (Pentesterlab)](https://github.com/LongTran15200/PentesterLab-HTTP-Challenges/blob/main/HTTP%20certification.pdf)
+  - [HTTP (Pentesterlab)](https://github.com/LongTran15200/PentesterLab-HTTP-Challenges/blob/main/HTTP%20certification.pdf).
   - [Essential (Pentesterlab)](https://github.com/LongTran15200/Pentesterlab-Essential-Challenges/blob/main/Essential%20certification.pdf)
 
 
