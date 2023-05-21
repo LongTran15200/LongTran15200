@@ -2,7 +2,7 @@
 # Hello World! Welcome to my Github! :wave:
   <p> :man_technologist:	 My name is Long Tran, aspiring Software Engineer/Cybersecurity Specialist.
     <br>🌍I'm based in Houston,Tx.
-    <br>🌱I'm currently learning more and sharpening my skill on <b> Operating System, C++, & Web Devs. </b>
+    <br🌱I'm currently learning more and sharpening my skill on <b> Operating System, C++, & Web Devs. </b>
     <br>🤝 I'm open to collaborating on any interesting projects. <a href="mailto:Long.tran832@gmail.com" target="_blank" rel="noopener">Let's Chat!</a>
  
   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
