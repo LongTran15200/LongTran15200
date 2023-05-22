@@ -20,6 +20,8 @@
   <a href="https://www.twitter.com/longtran1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://linkedin.com/in/long-tran-205222179/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
   <a href="https://discord.gg/aMecam57VT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  <a href="mailto:Long.tran832@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LongTran15200/LongTran15200/1c47a6c1524b374ba3aa66a197da9741319a85a7/Img/291685_google%2B_plus_social_logo_social%20media_icon.svg" width="32" height="32" />
+
   </p>
  
 
