@@ -7,9 +7,7 @@
  
   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
-  [![Spotify](https://spotify-now-playing-omega-one.vercel.app/api/spotify)](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
-
-  [<img align="right" alt="music" width="400" scr="https://spotify-now-playing-omega-one.vercel.app/api/spotify />](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH)
+  [![Spotify](https://spotify-now-playing-longtran15200.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
 
 
   
