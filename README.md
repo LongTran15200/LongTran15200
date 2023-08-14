@@ -64,5 +64,5 @@
 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongTran15200&hide_progress=true" />
 
-![snake gif](https://github.com/longtran15200/longtran15200/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/longtran15200/longtran15200/output/github-contribution-grid-snake.svg)
     
