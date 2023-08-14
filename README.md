@@ -15,6 +15,8 @@
 - [Google IT Support Professional](https://coursera.org/share/a66940902e215a23c9e28167e029f9bd)
 - [HTTP (Pentesterlab)](https://github.com/LongTran15200/PentesterLab-HTTP-Challenges/blob/main/HTTP%20certification.pdf)
 - [Essential (Pentesterlab)](https://github.com/LongTran15200/Pentesterlab-Essential-Challenges/blob/main/Essential%20certification.pdf)
+- [SWE Virtual Experience (Forage)](https://github.com/LongTran15200/LongTran15200/assets/128632373/335ff496-07ac-4c1d-acb5-7609433645ee)
+
 
 ### Connect with me:
 
