@@ -34,7 +34,7 @@
   </a>
 </p>
 
-  [<img align="right" width="400" src="https://spotify-now-playing-longtran15200.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff">](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
+  [<img align="right" width="400" alt="Spotify_Currently_Not_Playing" src="https://spotify-now-playing-longtran15200.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff">](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
 
 
 ### Languages and Tools:
