@@ -7,8 +7,6 @@
 <br>🌱 I'm currently learning and sharpening my skills in <b>Operating Systems, C++, and Web Development. </b>
 <br>🤝 I'm open to collaborating on any interesting projects. <a href="mailto:Long.tran832@gmail.com" target="_blank" rel="noopener">Let's Chat!</a>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 ## :page_facing_up: Certifications:
 
 - [Google IT Support Professional](https://coursera.org/share/a66940902e215a23c9e28167e029f9bd)
@@ -16,6 +14,7 @@
 - [Essential (Pentesterlab)](https://github.com/LongTran15200/Pentesterlab-Essential-Challenges/blob/main/Essential%20certification.pdf)
 - [SWE Virtual Experience (Forage)](https://github.com/LongTran15200/LongTran15200/assets/128632373/335ff496-07ac-4c1d-acb5-7609433645ee)
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### Connect with me:
 
@@ -33,9 +32,6 @@
     <img src="https://raw.githubusercontent.com/LongTran15200/LongTran15200/1c47a6c1524b374ba3aa66a197da9741319a85a7/Img/291685_google%2B_plus_social_logo_social%20media_icon.svg" width="32" height="32" />
   </a>
 </p>
-
-  [<img align="right" width="400" alt="Spotify_Currently_Not_Playing" src="https://spotify-now-playing-longtran15200.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff">](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
-
 
 ### Languages and Tools:
 
@@ -63,7 +59,13 @@
 </a>
 </p>
 
+
+
+
 ## 📈 GitHub Stats
+
+[<img align="right" width="400" alt="Spotify_Currently_Not_Playing" src="https://spotify-now-playing-longtran15200.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff">](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
+
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=LongTran15200&show_icons=true&theme=tokyonight" />
 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongTran15200&hide_progress=true" />
