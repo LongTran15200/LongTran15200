@@ -62,7 +62,7 @@
 
 
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="left" width="35">Github Stats
 
 [<img align="right" width="400" alt="Spotify_Currently_Not_Playing" src="https://spotify-now-playing-longtran15200.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff">](https://open.spotify.com/user/31d4amkbt37jxh6pn7tlilx2zqay)
 
